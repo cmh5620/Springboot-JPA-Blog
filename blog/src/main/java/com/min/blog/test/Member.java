@@ -8,9 +8,9 @@ import lombok.Setter;
 public class Member {
 
 	private String username  ;
-	private String password ; 
-	private String email ;        
-	 
+	private String password ;  
+	private String email ;  
+
 	
 	public Member(String username, String password, String email) {
  
